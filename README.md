@@ -37,22 +37,22 @@ Este é um projeto desenvolvido utilizando **JavaScript**, **HTML** e **CSS** co
 
 (Se você tiver uma captura de tela ou vídeo, pode adicionar aqui)
 
-![Exemplo de Tela do Sorteio-primeiro passo](c:\Users\joana\Downloads\tela01.jpg)
+![Exemplo de Tela do Sorteio-primeiro passo](imagens%20para%20readme/tela01.jpg)
 ## essa  aqui é a forma de ir  adicionando os nomes um por um.Coloque oo nome da pessoa e aperte em adicionar, e nisso voce vai seguindo gradativamente (de acordo com o numero de pessoas que voce quer que essa aplicação tenha.)
 
-![Exemplo de Tela do Sorteio-segundo passo](c:\Users\joana\Downloads\tela02.jpg)
+![Exemplo de Tela do Sorteio-segundo passo](imagens%20para%20readme/tela02.jpg)
 ## aqui esta o exemplo de dois nomes( que é o minimo para essa aplicação)
 
-![Exemplo de Tela do Sorteio-terceiro passo](c:\Users\joana\Downloads\tela04.jpg)
+![Exemplo de Tela do Sorteio-terceiro passo](imagens%20para%20readme/tela04.jpg)
 ## depois de ja ter colocado os nomes e apertado no botao 'sortear amigo' , aparecerá o que foi. No caso aqui foi o 'MURILO'. 
 
-![Exemplo de Tela do Sorteio-se voce quiser sortear so com um nome digitado ou sem ter digitado nenhum nome e apertar n botão 'sortear amigo'](c:\Users\joana\Downloads\tela05.jpg)
+![Exemplo de Tela do Sorteio-se voce quiser sortear so com um nome digitado ou sem ter digitado nenhum nome e apertar n botão 'sortear amigo'](imagens%20para%20readme/tela05.jpg)
 
 ## caso voce faça isso, vai aparecer essa mensagem logo a cima, mostrando que o nome esta invalido,pois nao é so ele que tem que esta no minimo. e caso voce coloque nenhum nome e aperte em adicionar ou sortear, essa mensagem tambem irá aparecer. A logica ai é no minimo voce adicionar dois nomes  e apertar no botão de sortear e voce ver qual  foi o adicionado. 
 
 
-![exemplo de como fica se voce pode  fazer  para fazer um novo sorteio](c:\Users\joana\Downloads\tela7.jpg)
+![exemplo de como fica se voce pode  fazer  para fazer um novo sorteio](imagens%20para%20readme/tela%20%207.jpg)
 ## funcionalidade do botao reiniciar sorteio, caso voce queira fazer um novo depois de um já ter sido executado.
 
-![exemplo de como fica depois de apertar o botao de reiniciar o sorteio'](c:\Users\joana\Downloads\tela8.jpg)
+![exemplo de como fica depois de apertar o botao de reiniciar o sorteio'](imagens%20para%20readme/tela%208.jpg)
 ## depois de apertar o botao de reiniciar sorteio,tudo some de anterior e novamente voce pode fazer um novo com os campus tudo limpo.
